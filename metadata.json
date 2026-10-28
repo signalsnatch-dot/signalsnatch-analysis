@@ -1,0 +1,6 @@
+{
+  "name": "Upstox Historical Trade Milestone Analyzer",
+  "description": "Accumulate daily trade instrument keys, fetch Upstox 1-minute historical candle data to CSV, and evaluate Stop Loss vs Take Profit milestone achievements with multi-day high/low resolution and volume-to-threshold metrics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
